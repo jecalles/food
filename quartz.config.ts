@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "null",
     },
     locale: "en-US",
-    baseUrl: "yourusername.github.io/food", // TODO: set to your GitHub Pages URL
+    baseUrl: "jecalles.github.io/food",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
