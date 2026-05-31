@@ -1,1 +1,16 @@
+# Build output
+public
+.quartz-cache
+
+# Dependencies
+node_modules
+
+# Claude Code
+CLAUDE.md
+.claude
+
+# Obsidian
+.obsidian
+
+# macOS
 .DS_Store
