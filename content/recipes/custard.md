@@ -1,11 +1,11 @@
 _Essentially, eggs and milk or creme, sugar, flavorings, and cooked slowly, sometimes tempered_
 Status: #TODO 
-Tags: [[cooking]]
+Tags: 
 
 # Ingredients
 
 _Essential_
-- [ ]  
+- [ ] 
 
 _Recommended_
 - [ ] 

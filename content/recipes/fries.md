@@ -1,11 +1,11 @@
 _Potatoes cut into little sticks and fried. SO GOOOD! Not healthy._
 Status: #TODO 
-Tags: [[cooking]]
+Tags: 
 
 # Ingredients
 
 _Essential_
-- [ ]  
+- [ ] 
 
 _Recommended_
 - [ ] 

@@ -2,7 +2,7 @@ _Some cuisines (e.g., in [[indian]]) will prepare a flavorful oil by extracting 
 
 _"What you put in first brings the most flavor" - Chef Sharma (BiBi, London)_
 Status: 
-Tags: [[cooking]]
+Tags: 
 
 # Ingredients
 

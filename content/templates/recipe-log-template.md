@@ -1,12 +1,12 @@
 {{date}} at {{time}}
 Status: #TODO 
-Tags: [[cooking]]
+Tags: 
 
 _What is this dish? What's the story behind it?_
 # Ingredients
 
 _Essential_
-- [ ]  
+- [ ] 
 
 _Recommended_
 - [ ] 

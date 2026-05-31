@@ -1,11 +1,11 @@
 _[[Nad]] turned me onto chicken rice and I've been obsessed ever since. High level, you poach a chicken, then use the poaching liquid to cook rice. Served typically with dipping sauces and a simple cucumber salad._
 Status: #in-practice 
-Tags: [[cooking]] [[comfort-food]] [[meal-prep]]
+Tags: [[meal-prep]]
 
 # Ingredients
 
 _Essential_
-- [ ]  Chicken (4.5 lb)
+- [ ] Chicken (4.5 lb)
 - [ ] Jasmine rice
 - [ ] Garlic (one head, divided and minced)
 - [ ] Ginger (not enough! small knob minced)

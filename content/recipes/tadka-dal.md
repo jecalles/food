@@ -1,11 +1,11 @@
 _An [[indian]] lentil dish flavored with tempered oil ("tadka"). Simple, delicious, healthy._
 Status: #TODO 
-Tags: [[cooking]] [[indian]] [[lentils]]
+Tags: [[indian]] [[lentils]]
 
 # Ingredients
 
 _Essential_
-- [ ]  
+- [ ] 
 
 _Recommended_
 - [ ] 

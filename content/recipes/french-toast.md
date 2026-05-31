@@ -1,11 +1,11 @@
 _Very much just soaking bread in egg. 
 Status: #TODO 
-Tags: [[cooking]] [[custard]]
+Tags: [[custard]]
 
 # Ingredients
 
 _Essential_
-- [ ]  
+- [ ] 
 
 _Recommended_
 - [ ] 

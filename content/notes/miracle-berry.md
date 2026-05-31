@@ -1,6 +1,6 @@
 2026-02-26 22:28
 Status: #fun 
-Tags: [[food]] [[trippy]]
+Tags: [[trippy]]
 
 # What is this thing?
 Miracle berries (*Synsepalum dulicificum*) are a fruit native to Africa with a weird property: it contains miraculin, a glycoprotein that makes sour food taste sweet. This effect lasts until saliva washes the protein off your sweet receptors, about 30 min.

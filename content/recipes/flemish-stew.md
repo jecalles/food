@@ -2,12 +2,12 @@ _[[Anton Molina]] is interested in making this dish._
 
 _In Dutch, stoofvlees. In French, carbonnade flamande. Beef or pork stewed in beer and mustard, thickened with bread. Common seasoning: bay leaf, thyme, clove, junyper berries, dreid prunes. Typical beers: Oud Bruin (flemish brown), Brown Trappist Ale, Flanders Red. Often served with [[fries]] and a simple green salad._
 Status: #needs-practice 
-Tags: [[cooking]] [[stew]]
+Tags: [[stew]]
 
 # Ingredients
 
 _Essential_
-- [ ]  
+- [ ] 
 
 _Recommended_
 - [ ] vinegar (to finish)

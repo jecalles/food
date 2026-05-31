@@ -1,11 +1,11 @@
 _French beef braised in red wine (typically from Burgundy)._
 Status: #TODO 
-Tags: [[cooking]] [[french]] [[stew]]
+Tags: [[french]] [[stew]]
 
 # Ingredients
 
 _Essential_
-- [ ]  
+- [ ] 
 
 _Recommended_
 - [ ] 

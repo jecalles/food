@@ -1,6 +1,6 @@
 *This is one of [[Jenn]]'s go to recipes. Always a crowd pleaser and very consistent.*
 Status: #needs-practice #learning
-Tags:  [[baking]]
+Tags: [[baking]]
 
 # Ingredients
 For one batch of 12 muffins.
@@ -13,7 +13,7 @@ _Dry_
 
 _Wet_
 - [ ] old bananas (2 large)
-- [ ] vegetable oil  (120 mL, 1/2 cup)
+- [ ] vegetable oil (120 mL, 1/2 cup)
 - [ ] vanilla (1 tsp)
 - [ ] eggs (1 large)
 
@@ -44,6 +44,6 @@ _Optional_
 - Muffins get a _slight_ crisp at the doneness level in the center that I like (closer to 20 min). I wonder if increasing the temperature (e.g., 370F / 15 min) would be better? On the other hand, crisp is not universally popular
 - If using chocolate chips, the last few muffins tend to get fewer than the first few. Mix thoroughly OR just add a few more chocolate chips to the latter ones.
 - "The vegetable oil is the star of this recipe, don't skimp!" 
--  "The ingredients tell the story... there's no complicated technique" - Jenn(ifer) 
+- "The ingredients tell the story... there's no complicated technique" - Jenn(ifer) 
 
 # Related Recipes and References

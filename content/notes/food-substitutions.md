@@ -1,4 +1,4 @@
-Tags: [[cooking]] [[food]]
+Tags: 
 
 _Sometimes, you don't have a particular ingredient, or it's hard to find. That's okay! Often, there are rough and ready substitutes!_
 # Close substitutions

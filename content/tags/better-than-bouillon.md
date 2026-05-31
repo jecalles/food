@@ -1,5 +1,5 @@
 Status: 
-Tags: [[food]]
+Tags: 
 
 # What's the ingredient?
 

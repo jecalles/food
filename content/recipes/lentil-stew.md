@@ -1,6 +1,6 @@
 _A solid go to dish. Easily made vegan. Core ratio is 1 dry lentil : 1 sofrito : 2 stock._
 Status: #TODO #in-practice 
-Tags: [[cooking]] [[healthy]] [[ratios]]
+Tags: [[ratios]]
 
 # Ingredients
 

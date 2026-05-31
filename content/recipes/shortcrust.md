@@ -1,5 +1,5 @@
 _A pastry crust. Approximately 1 part flour : 1 part butter : 0.5 part sugar._
-Status: #needs-practice  
+Status: #needs-practice 
 Tags: [[baking]] [[ratios]]
 
 # Ingredients

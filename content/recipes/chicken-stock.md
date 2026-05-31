@@ -1,6 +1,6 @@
 _What is this dish? What's the story behind it?_
 Status: #in-practice 
-Tags: [[cooking]] [[cooking-technique]]
+Tags: [[cooking-technique]]
 
 # Ingredients
 2 water : 1 chicken bones (on stovetop)

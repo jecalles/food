@@ -1,6 +1,6 @@
 _Want to pickle some vegetables? Make a brine, let em chill, and enjoy! Extends shelf life. Less healthy than a proper lactofermentation, but a lot quicker._
 Status: #needs-practice 
-Tags: [[cooking]] [[cooking-technique]] [[ratios]]
+Tags: [[cooking-technique]] [[ratios]]
 # Overview
 1 part vegetable : 1 part brine (weight)
 

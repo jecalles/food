@@ -1,6 +1,6 @@
 _You want to cook dry beans, but don't want to simmer them slowly on the stove top. Use a [[pressure-cooker]]. _
 Status: #TODO 
-Tags: [[cooking]] [[pressure-cooker]] [[beans]]
+Tags: [[pressure-cooker]] [[beans]]
 
 # Ingredients
 

@@ -1,11 +1,11 @@
 _Brenda's does this amazing Johnnycake, which I can only describe as a crabcake, but made of cornmeal, scallions, diced shrimp, fried in butter. The cakes are also served with a whipped pimento cheese butter_
 Status: #reverse-engineer #TODO 
-Tags: [[food]] [[restaurant]]
+Tags: 
 
 # Ingredients
 
 _Essential_
-- [ ]  
+- [ ] 
 
 _Recommended_
 - [ ] 

@@ -1,6 +1,6 @@
 _Emulsification agent made from kneading one part flour and one part butter. Used to finish soups and sauces to thicken and make glossy . See also [[roux]]_
 Status: #needs-practice 
-Tags: [[cooking]] [[cooking-technique]] [[ratios]]
+Tags: [[cooking-technique]] [[ratios]]
 
 # Ingredients
 - [ ] flour (1 part)

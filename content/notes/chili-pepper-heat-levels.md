@@ -1,6 +1,6 @@
 _A reference table for fresh chili peppers, normalized to jalapeño as the baseline. Useful for substitution and scaling in recipes like [[improvised-chili]]._ 
 
-Tags: [[cooking]] [[ratios]] [[chili-peppers]]
+Tags: [[ratios]] [[chili-peppers]]
 
 # Fresh Chili Pepper Reference
 

@@ -2,9 +2,9 @@
 
 Status: #needs-work #known-theoretically
 
-Tags: [[cooking-equipment]] [[cooking]] [[pressure-cooker]]
+Tags: [[cooking-equipment]] [[pressure-cooker]]
 
-#  Pressure cookers are great for making stock for stock
+# Pressure cookers are great for making stock for stock
 Cubans do this all the time. French tradition seems to poo-poo it. Regardless, the chemistry seems sound: pressure increases cook temperature, and temperature speeds up reactions *a la* Arhennius equation. 
 
 ![[chicken-stock-extraction-pressure-cooker.png]]

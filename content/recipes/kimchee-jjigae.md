@@ -1,6 +1,6 @@
 _[[korean]] kimchee stew with silken tofu._
 Status: #TODO 
-Tags: [[cooking]]
+Tags: 
 
 # Ingredients
 

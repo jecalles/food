@@ -1,6 +1,6 @@
 _Chili is a delicious, bean forward, batch cookable, simmerable, healthy meal._
 Status: #needs-practice 
-Tags: [[cooking]] [[meal-prep]] [[ratios]] [[stew]]
+Tags: [[meal-prep]] [[ratios]] [[stew]]
 
 # Ingredients
 

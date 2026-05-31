@@ -1,6 +1,6 @@
 _A vegan alternative to a typical [[bolognese-(meat-sauce)]] that I typically use for lasagnas, but sometimes for other dishes requiring a meaty sauce. Uses parboiled [[lentils]] and diced walnuts to bring meaty mouthfeel._
 Status: #TODO 
-Tags: [[cooking]] [[sauce]]
+Tags: [[sauce]]
 
 # Ingredients
 

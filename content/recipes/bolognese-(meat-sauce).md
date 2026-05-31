@@ -1,11 +1,11 @@
 _What is this dish? What's the story behind it?_
 Status: #TODO 
-Tags: [[cooking]] [[sauce]]
+Tags: [[sauce]]
 
 # Ingredients
 
 _Essential_
-- [ ]  
+- [ ] 
 
 _Recommended_
 - [ ] 

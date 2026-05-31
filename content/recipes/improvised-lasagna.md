@@ -1,7 +1,7 @@
 _Sometimes you just want to make a lot of food for a lot of people and not have to faff around with a recipe. This is the meal for you. Spinach adds some bulk without heaviness and extends fresh basil if you want to do a layer of greens. Some recipes alternate red and white sauce._
 
 Status: #half-baked 
-Tags: [[cooking]] [[bulk-cooking]] [[meal-prep]] [[casserole]]
+Tags: [[bulk-cooking]] [[meal-prep]] [[casserole]]
 # Ingredients
 For 2x Three Layer Lasagnas (9"x13")
 - [ ] 2x box of lasagna noodles (~2 lb)
@@ -55,5 +55,5 @@ For each layer of the lasagna (we did three layers)
 
 # Related Recipes and References
 # Log
--  [[20260131-nuhaus-lasagna]] 
+- [[20260131-nuhaus-lasagna]] 
 

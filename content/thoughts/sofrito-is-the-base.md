@@ -1,7 +1,7 @@
 2026-01-26 17:02
 
 Status: #known-but-need-research 
-Tags: [[cooking]] [[cross-cultural-techniques]] [[convergent evolution]]
+Tags: [[cross-cultural-techniques]] [[convergent evolution]]
 
 
 # Sofrito is the base

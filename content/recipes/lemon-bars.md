@@ -5,7 +5,7 @@ Tags: [[baking]] [[ratios]]
 # Ingredients
 
 _Essential_
-- [ ]  
+- [ ] 
 
 _Recommended_
 - [ ] 

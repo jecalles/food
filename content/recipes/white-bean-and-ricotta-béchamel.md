@@ -1,6 +1,6 @@
 _A more substantive alternative to a [[béchamel]] sauce which I sometimes use in lasagna. Replaces the [[roux]] with white beans and the milk and cream with ricotta._
 Status: #needs-practice 
-Tags: [[cooking]] [[sauce]]
+Tags: [[sauce]]
 
 # Ingredients
 

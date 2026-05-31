@@ -1,6 +1,6 @@
 _French version of [[sofrito]]. 2 onion : 1 carrot : 1 celery. This often turns out to be 1x onion, 1x carrot, 1x celery. Fun!_
-Status: #in-practice  
-Tags: [[cooking]] [[cooking-technique]]
+Status: #in-practice 
+Tags: [[cooking-technique]]
 
 # Ingredients
 
