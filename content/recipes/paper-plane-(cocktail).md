@@ -1,5 +1,5 @@
 _An equal parts cocktail of ._
-Status: #TODO 
+Status: #needs-practice 
 Tags: [[ratios]]
 
 In an ice shaker, combine equal parts (30 mL) bourbon, Aperol, Amaro, and lemon juice. Serve chilled, straight up, with a lemon twist.

@@ -1,5 +1,5 @@
 _Sugar, when heated to about 150C, begins to break down and self-polymerize, forming rich, bitter, deep aromatics. Sugar thus caramelized also hardens as it cools, providing structure and texture._
-Status: #TODO 
+Status: #needs-practice 
 Tags: [[baking]]
 
 # Ingredients

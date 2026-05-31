@@ -1,6 +1,6 @@
 2026-01-28 11:25
 
-Status: #half-baked #needs-work #needs-experiments #TODO 
+Status: #half-baked #needs-work #needs-experiments 
 
 Tags: [[baking]] [[ratios]]
 

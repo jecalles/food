@@ -1,5 +1,5 @@
 2026-03-20 00:17
-Status: #TODO 
+Status: #needs-practice 
 Tags: [[indian]] [[cooking-technique]]
 
 # What's the concept?
