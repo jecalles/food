@@ -1,6 +1,6 @@
 _Carby italian food. Great for sopping up a [[braise]]._
 Status: #TODO 
-Tags: [[cooking]] [[Italian food]] [[carby food]]
+Tags: [[cooking]] [[italian-food]] [[carby-food]]
 
 # Ingredients
 - [ ] polenta (1 part)

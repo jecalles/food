@@ -1,6 +1,6 @@
-_What is this dish? What's the story behind it?_
+_Custard with lemon. used in [[lemon-bars]]_
 Status: #TODO 
-Tags: [[cooking]]
+Tags: [[baking]]
 
 # Ingredients
 
@@ -23,7 +23,8 @@ _Optional_
 - 
 
 # Related Recipes and References
-- [[chicken-stock]]
+- [[custard]]
+- [[lemon-bars]]
 
 # Log
 - 

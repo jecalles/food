@@ -1,6 +1,6 @@
 _A white sauce built up from one part [[roux]] (butter) and ten parts whole milk (1:1:20 butter, flour, and milk). Useful for making cheese sauces._
 Status: #needs-practice 
-Tags: [[cooking]] [[sauce]] [[cooking technique]] [[ratios]]
+Tags: [[cooking]] [[sauce]] [[cooking-technique]] [[ratios]]
 
 # Ingredients
 

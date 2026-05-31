@@ -1,6 +1,6 @@
-_What is this dish? What's the story behind it?_
+_Very much just soaking bread in egg. 
 Status: #TODO 
-Tags: [[cooking]]
+Tags: [[cooking]] [[custard]]
 
 # Ingredients
 
@@ -23,7 +23,4 @@ _Optional_
 - 
 
 # Related Recipes and References
-- [[chicken-stock]]
-
-# Log
-- 
+- [[bread-pudding]]

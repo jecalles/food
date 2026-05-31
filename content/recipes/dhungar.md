@@ -1,6 +1,6 @@
 2026-03-20 00:17
 Status: #TODO 
-Tags: [[cooking]] [[Indian]] [[cooking technique]]
+Tags: [[cooking]] [[indian]] [[cooking-technique]]
 
 # What's the concept?
 Smoke your food. In a small metal cup, smoke charcoal and whole spices (e.g., cardamom) and some ghee. Perfume your dish in a dutch oven with the lid on to desired smokiness, (1-10) min.

@@ -1,6 +1,6 @@
 _Emulsification agent used as the basis for many a sauces. Core idea: one part flour to one part fat, cooked down. Typically uses butter (French) but other oils can be used (e.g., Cajun dark roux uses lard and drippings). The "darkness" of the roux refers to the color of the final product and depends on the duration of cooking._
 Status: #needs-practice 
-Tags: [[cooking]] [[cooking technique]] [[ratios]]
+Tags: [[cooking]] [[cooking-technique]] [[ratios]]
 
 # Ingredients
 _Core ratio (by weight): 1 part flour, 1 part fat. Can thicken between 8 ([[velouté]]) and 20 parts fluid ([[béchamel]])._
@@ -25,7 +25,7 @@ _Core ratio (by weight): 1 part flour, 1 part fat. Can thicken between 8 ([[velo
 - The thickening power of a roux decreases with darker color and increased cook time. This must be because the thickening comes from polymerizing flour components, which get broken down and maillard-ed away into nothingness.
 
 # Related Recipes 
-- [[beurre manié]] 
+- [[beurre-manié]] 
 
 # References
 - Wikipedia on Roux: https://en.wikibooks.org/wiki/Cookbook:Roux

@@ -1,6 +1,6 @@
-_What is this dish? What's the story behind it?_
+_French beef braised in red wine (typically from Burgundy)._
 Status: #TODO 
-Tags: [[cooking]]
+Tags: [[cooking]] [[french]] [[stew]]
 
 # Ingredients
 
@@ -13,7 +13,7 @@ _Recommended_
 _Optional_
 - [ ] 
 
-## Equipment
+# Equipment
 - 
 
 # Instructions
@@ -23,7 +23,7 @@ _Optional_
 - 
 
 # Related Recipes and References
-- [[chicken-stock]]
+- 
 
 # Log
 - 

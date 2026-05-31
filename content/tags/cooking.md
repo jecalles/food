@@ -12,5 +12,5 @@ Tags: [[food]]
 ### Subdisciplines
 
 ### Related
-[[cooking equipment]]
+[[cooking-equipment]]
 [[ratios]]
