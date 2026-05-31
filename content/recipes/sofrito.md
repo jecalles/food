@@ -1,5 +1,5 @@
 _My mother and my grandmother taught me how to use a sofrito as the base of sauces, stocks, stews, braises, etc. I soon learned that many, many cultures use the same technique with different aromatics as a base in their cooking as well. Essentially, dice aromatics and cook in oil until just translucent and fragrant. _
-Status: #known #in-practice 
+Status: #in-practice 
 Tags: [[cooking]] [[cooking technique]]
 
 # Ingredients

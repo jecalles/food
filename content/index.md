@@ -4,9 +4,9 @@ title: food
 
 A personal knowledge base of recipes, techniques, and notes on cooking. Browse via the explorer, or start somewhere:
 
-- [Recipes](/recipes) — tested recipes organized by type
-- [Techniques](/techniques) — foundational methods
-- [Notes](/notes) — reference material and observations
-- [Thoughts](/thoughts) — food essays and ideas
-- [Equipment](/equipment) — tools worth knowing
-- [Ingredients](/ingredients) — notable ingredients
+- [[recipes/sofrito|Sofrito]] — the universal base
+- [[recipes/improvised braise|Improvised braise]] — the template for all braises
+- [[recipes/improvised chili|Improvised chili]]
+- [[techniques/cartouche|Cartouche]] — a technique worth knowing
+- [[notes/chili pepper heat levels|Chili pepper heat levels]] — a reference table
+- [[thoughts/Sofrito is the base|Sofrito is the base]] — on convergent cooking technique

@@ -1,5 +1,5 @@
 _Yogurt marinated, double dredged fried chicken._
-Status: #TODO 
+Status: #in-practice  
 Tags: [[cooking]] [[fried food]]
 
 # Ingredients

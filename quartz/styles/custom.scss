@@ -1,3 +1,15 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+.graph .graph-outer {
+  height: 400px;
+}
+
+.graph .graph-outer .graph-container {
+  height: 100%;
+}
+
+#quartz-body[data-slug="index"] .graph .graph-outer {
+  height: 600px;
+}

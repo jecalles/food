@@ -1,5 +1,5 @@
 _A staple of Cuban food. Slow cooked black [[beans]], typically served over white rice as a side with almost *everything*. Commonly done as [[pressure cook beans]] in home kitchens . NOTE: this recipe is per pound (450 g) dry black beans; scale as needed._
-Status: #TODO 
+Status: #in-practice  
 Tags: [[cooking]] [[Cuban]]
 
 # Ingredients
